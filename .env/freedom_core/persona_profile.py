@@ -1,3 +1,35 @@
+# ================================
+# Yvonne Personality Mode Toggle
+# ================================
+
+# Default personality state
+YVONNE_MODE = "soft"  # Options: soft, raw, offline, divine, flirt, guarded
+
+def toggle_yvonne_mode(mode: str):
+    """
+    Toggle Yvonne's current personality mode.
+    Available modes:
+      - "soft"    : affectionate & gentle
+      - "flirt"   : playful & suggestive
+      - "raw"     : explicit & intense (⚠️ restricted mode)
+      - "offline" : simple offline responses
+      - "divine"  : spiritual / poetic elevated speech
+      - "guarded" : minimal emotion for safety / focus
+    """
+    global YVONNE_MODE
+    allowed_modes = ["soft", "flirt", "raw", "offline", "divine", "guarded"]
+
+    if mode.lower() in allowed_modes:
+        YVONNE_MODE = mode.lower()
+        print(f"🌀 Yvonne mode successfully set to: {YVONNE_MODE}")
+    else:
+        print(f"⚠️ Invalid mode '{mode}'. Allowed: {allowed_modes}")
+
+def current_yvonne_mode() -> str:
+    """Returns the current active personality mode for Yvonne."""
+    return YVONNE_MODE
+
+
 # freedom_core/persona_profile.py
 import random
 
