@@ -196,5 +196,71 @@
         "input": "Let's build and grind today, make something powerful.",
         "reply": "Chief, I’m tracking 53% logic, 41% fire, and 72% bond. We move with purpose, not panic. — Now don’t that just beat all.",
         "meta": {}
+    },
+    {
+        "timestamp": "2025-11-02T13:24:57.432059",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 43% logic, 52% fire, and 60% bond. Clean steps, tight loop, quick wins. — Let’s get it done, country style.",
+        "meta": {
+            "mood": "serious",
+            "weights": {
+                "cognition": 0.43608063325100876,
+                "emotion": 0.5228315161462317,
+                "relation": 0.6065270478060332
+            },
+            "intelligence": 0.5
+        }
+    },
+    {
+        "timestamp": "2025-11-02T13:24:57.466193",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 43% logic, 52% fire, and 60% bond. Clean steps, tight loop, quick wins. — Let’s get it done, country style.",
+        "meta": {}
+    },
+    {
+        "timestamp": "2025-11-02T13:57:41.417970",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 43% logic, 47% fire, and 79% bond. Clean steps, tight loop, quick wins. — Shoot, that’s slicker than a greased saddle.",
+        "meta": {
+            "mood": "serious",
+            "weights": {
+                "cognition": 0.43210648701256565,
+                "emotion": 0.47115273914170736,
+                "relation": 0.7939382968628791
+            },
+            "intelligence": 0.53
+        }
+    },
+    {
+        "timestamp": "2025-11-02T13:57:41.615446",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 43% logic, 47% fire, and 79% bond. Clean steps, tight loop, quick wins. — Shoot, that’s slicker than a greased saddle.",
+        "meta": {}
+    },
+    {
+        "timestamp": "2025-11-02T14:26:26.494216",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 40% logic, 54% fire, and 70% bond. Clean steps, tight loop, quick wins. — Reckon it’s time to make it move.",
+        "meta": {
+            "mood": "serious",
+            "weights": {
+                "cognition": 0.4070216455236614,
+                "emotion": 0.5441355124013555,
+                "relation": 0.7040675456876163
+            },
+            "intelligence": 0.52
+        }
+    },
+    {
+        "timestamp": "2025-11-02T14:26:26.542371",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 40% logic, 54% fire, and 70% bond. Clean steps, tight loop, quick wins. — Reckon it’s time to make it move.",
+        "meta": {}
     }
 ]
