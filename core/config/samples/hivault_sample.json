@@ -1,0 +1,6 @@
+{
+    "vault": {
+        "encryption": "AES-256",
+        "path": "core/hivault/data"
+    }
+}

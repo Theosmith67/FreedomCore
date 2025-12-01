@@ -1,0 +1,3 @@
+[system]
+mode = "development"
+log_level = "info"

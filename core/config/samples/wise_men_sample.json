@@ -1,0 +1,14 @@
+{
+    "Ezra": {
+        "enabled": true,
+        "role": "Scholar"
+    },
+    "Silas": {
+        "enabled": true,
+        "role": "Engineer"
+    },
+    "Malachi": {
+        "enabled": true,
+        "role": "Keeper"
+    }
+}
