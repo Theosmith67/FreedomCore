@@ -1,0 +1,266 @@
+[
+    {
+        "timestamp": "2025-10-13T20:12:32.741234",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "response": "Chief, I’m tracking 48% logic, 55% fire, and 64% bond. Let’s lock in and make the next play at IQ 54. — You feel me?",
+        "meta": {
+            "mood": "serious",
+            "weights": {
+                "cognition": 0.48842660117152714,
+                "emotion": 0.5559116273500025,
+                "relation": 0.6426445675176392
+            },
+            "intelligence": 0.54
+        }
+    },
+    {
+        "timestamp": "2025-10-13T20:12:32.756640",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "response": "Chief, I’m tracking 48% logic, 55% fire, and 64% bond. Let’s lock in and make the next play at IQ 54. — You feel me?",
+        "meta": {}
+    },
+    {
+        "timestamp": "2025-10-13T20:27:00.748580",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 58% logic, 58% fire, and 76% bond. Let’s lock in and make the next play at IQ 63. — You feel me?",
+        "meta": {
+            "mood": "serious",
+            "weights": {
+                "cognition": 0.5859218778135473,
+                "emotion": 0.5851986015114328,
+                "relation": 0.7693094051900624
+            },
+            "intelligence": 0.63
+        }
+    },
+    {
+        "timestamp": "2025-10-13T20:27:00.851277",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 58% logic, 58% fire, and 76% bond. Let’s lock in and make the next play at IQ 63. — You feel me?",
+        "meta": {}
+    },
+    {
+        "timestamp": "2025-10-14T17:12:53.606773",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 41% logic, 41% fire, and 69% bond. We move with purpose, not panic. — Say less, Chief —",
+        "meta": {
+            "mood": "serious",
+            "weights": {
+                "cognition": 0.4164119512190163,
+                "emotion": 0.41646591478214867,
+                "relation": 0.6995252095352933
+            },
+            "intelligence": 0.49
+        }
+    },
+    {
+        "timestamp": "2025-10-14T17:12:53.650953",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 41% logic, 41% fire, and 69% bond. We move with purpose, not panic. — Say less, Chief —",
+        "meta": {}
+    },
+    {
+        "timestamp": "2025-10-22T14:15:05.587694",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 45% logic, 53% fire, and 60% bond. Let’s lock in and make the next play at IQ 52. — Shoot, that’s slicker than a greased saddle.",
+        "meta": {
+            "mood": "serious",
+            "weights": {
+                "cognition": 0.4568189875091366,
+                "emotion": 0.5389365688824052,
+                "relation": 0.6090779557532177
+            },
+            "intelligence": 0.52
+        }
+    },
+    {
+        "timestamp": "2025-10-22T14:15:05.621825",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 45% logic, 53% fire, and 60% bond. Let’s lock in and make the next play at IQ 52. — Shoot, that’s slicker than a greased saddle.",
+        "meta": {}
+    },
+    {
+        "timestamp": "2025-10-22T14:52:57.652188",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 57% logic, 44% fire, and 68% bond. We move with purpose, not panic. — You feel me?",
+        "meta": {
+            "mood": "serious",
+            "weights": {
+                "cognition": 0.5728412375113747,
+                "emotion": 0.44868092839621804,
+                "relation": 0.6822845550950056
+            },
+            "intelligence": 0.57
+        }
+    },
+    {
+        "timestamp": "2025-10-22T14:52:58.019498",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 57% logic, 44% fire, and 68% bond. We move with purpose, not panic. — You feel me?",
+        "meta": {}
+    },
+    {
+        "timestamp": "2025-10-24T22:49:16.166429",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 52% logic, 46% fire, and 61% bond. We move with purpose, not panic. — Now don’t that just beat all.",
+        "meta": {
+            "mood": "serious",
+            "weights": {
+                "cognition": 0.5295706421249569,
+                "emotion": 0.46816972639369964,
+                "relation": 0.6108328352397816
+            },
+            "intelligence": 0.53
+        }
+    },
+    {
+        "timestamp": "2025-10-24T22:49:16.515304",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 52% logic, 46% fire, and 61% bond. We move with purpose, not panic. — Now don’t that just beat all.",
+        "meta": {}
+    },
+    {
+        "timestamp": "2025-10-25T10:45:55.905447",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 51% logic, 56% fire, and 67% bond. We move with purpose, not panic. — Now don’t that just beat all.",
+        "meta": {
+            "mood": "serious",
+            "weights": {
+                "cognition": 0.5110740020412524,
+                "emotion": 0.5686553331066586,
+                "relation": 0.6747189915786219
+            },
+            "intelligence": 0.57
+        }
+    },
+    {
+        "timestamp": "2025-10-25T10:45:57.088715",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 51% logic, 56% fire, and 67% bond. We move with purpose, not panic. — Now don’t that just beat all.",
+        "meta": {}
+    },
+    {
+        "timestamp": "2025-10-27T09:37:46.376104",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 44% logic, 59% fire, and 69% bond. Clean steps, tight loop, quick wins. — Bet that.",
+        "meta": {
+            "mood": "serious",
+            "weights": {
+                "cognition": 0.44930219626113055,
+                "emotion": 0.5919529995077014,
+                "relation": 0.6943759045112122
+            },
+            "intelligence": 0.55
+        }
+    },
+    {
+        "timestamp": "2025-10-27T09:37:46.480953",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 44% logic, 59% fire, and 69% bond. Clean steps, tight loop, quick wins. — Bet that.",
+        "meta": {}
+    },
+    {
+        "timestamp": "2025-10-27T10:01:56.969712",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 53% logic, 41% fire, and 72% bond. We move with purpose, not panic. — Now don’t that just beat all.",
+        "meta": {
+            "mood": "serious",
+            "weights": {
+                "cognition": 0.5399087020896551,
+                "emotion": 0.41875561458146454,
+                "relation": 0.7235003349152583
+            },
+            "intelligence": 0.56
+        }
+    },
+    {
+        "timestamp": "2025-10-27T10:01:57.085430",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 53% logic, 41% fire, and 72% bond. We move with purpose, not panic. — Now don’t that just beat all.",
+        "meta": {}
+    },
+    {
+        "timestamp": "2025-11-02T13:24:57.432059",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 43% logic, 52% fire, and 60% bond. Clean steps, tight loop, quick wins. — Let’s get it done, country style.",
+        "meta": {
+            "mood": "serious",
+            "weights": {
+                "cognition": 0.43608063325100876,
+                "emotion": 0.5228315161462317,
+                "relation": 0.6065270478060332
+            },
+            "intelligence": 0.5
+        }
+    },
+    {
+        "timestamp": "2025-11-02T13:24:57.466193",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 43% logic, 52% fire, and 60% bond. Clean steps, tight loop, quick wins. — Let’s get it done, country style.",
+        "meta": {}
+    },
+    {
+        "timestamp": "2025-11-02T13:57:41.417970",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 43% logic, 47% fire, and 79% bond. Clean steps, tight loop, quick wins. — Shoot, that’s slicker than a greased saddle.",
+        "meta": {
+            "mood": "serious",
+            "weights": {
+                "cognition": 0.43210648701256565,
+                "emotion": 0.47115273914170736,
+                "relation": 0.7939382968628791
+            },
+            "intelligence": 0.53
+        }
+    },
+    {
+        "timestamp": "2025-11-02T13:57:41.615446",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 43% logic, 47% fire, and 79% bond. Clean steps, tight loop, quick wins. — Shoot, that’s slicker than a greased saddle.",
+        "meta": {}
+    },
+    {
+        "timestamp": "2025-11-02T14:26:26.494216",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 40% logic, 54% fire, and 70% bond. Clean steps, tight loop, quick wins. — Reckon it’s time to make it move.",
+        "meta": {
+            "mood": "serious",
+            "weights": {
+                "cognition": 0.4070216455236614,
+                "emotion": 0.5441355124013555,
+                "relation": 0.7040675456876163
+            },
+            "intelligence": 0.52
+        }
+    },
+    {
+        "timestamp": "2025-11-02T14:26:26.542371",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 40% logic, 54% fire, and 70% bond. Clean steps, tight loop, quick wins. — Reckon it’s time to make it move.",
+        "meta": {}
+    }
+]
