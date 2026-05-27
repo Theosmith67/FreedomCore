@@ -262,5 +262,49 @@
         "input": "Let's build and grind today, make something powerful.",
         "reply": "Chief, I’m tracking 40% logic, 54% fire, and 70% bond. Clean steps, tight loop, quick wins. — Reckon it’s time to make it move.",
         "meta": {}
+    },
+    {
+        "timestamp": "2026-05-27T16:23:38.779515",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 41% logic, 41% fire, and 63% bond. Clean steps, tight loop, quick wins. — Let’s get it done, country style.",
+        "meta": {
+            "mood": "serious",
+            "weights": {
+                "cognition": 0.4161315720562666,
+                "emotion": 0.41127044998881995,
+                "relation": 0.6307565626395119
+            },
+            "intelligence": 0.47
+        }
+    },
+    {
+        "timestamp": "2026-05-27T16:23:38.780822",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 41% logic, 41% fire, and 63% bond. Clean steps, tight loop, quick wins. — Let’s get it done, country style.",
+        "meta": {}
+    },
+    {
+        "timestamp": "2026-05-27T16:28:24.298638",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 47% logic, 47% fire, and 77% bond. Clean steps, tight loop, quick wins. — Reckon it’s time to make it move.",
+        "meta": {
+            "mood": "serious",
+            "weights": {
+                "cognition": 0.4728609399473489,
+                "emotion": 0.475197723172991,
+                "relation": 0.778867394996089
+            },
+            "intelligence": 0.55
+        }
+    },
+    {
+        "timestamp": "2026-05-27T16:28:24.303305",
+        "user": "Chief",
+        "input": "Let's build and grind today, make something powerful.",
+        "reply": "Chief, I’m tracking 47% logic, 47% fire, and 77% bond. Clean steps, tight loop, quick wins. — Reckon it’s time to make it move.",
+        "meta": {}
     }
 ]
